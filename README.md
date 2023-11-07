@@ -1,10 +1,5 @@
-- 👋 I'm Sylvia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+estou cursando, Análise desenvolvimento de sistema (estácio)
+cursando tambem na Aeronet Informática & Idiomas Desenvolvimento web.
+estou aprendendo a programar em javascript,desenvolvendo coisas
+em HTML..
 
-<!---
-Silprogect/Silprogect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
